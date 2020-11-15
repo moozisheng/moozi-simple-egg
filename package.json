@@ -1,0 +1,16 @@
+{
+  "name": "egg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.4.0",
+    "node-schedule": "^1.3.2"
+  }
+}
